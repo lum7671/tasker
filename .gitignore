@@ -1,0 +1,17 @@
+# 개인 설정 파일들
+home-personal.xml
+*-personal.xml
+
+# 백업 파일들
+*.bak
+*.backup
+
+# 개인 변수 설정 파일
+variables-personal.xml
+
+# 로그 파일들
+*.log
+
+# 임시 파일들
+.DS_Store
+Thumbs.db
