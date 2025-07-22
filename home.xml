@@ -4,16 +4,7 @@
 		<edate>1753083834543</edate>
 		<flags>10</flags>
 		<id>10</id>
-				<Condition sr="c0" ve="3">
-					<lhs>%WIFISSID</lhs>
-					<op>0</op>
-					<rhs>%HOME_WIFI_5G</rhs>
-				</Condition>
-				<Condition sr="c1" ve="3">
-					<lhs>%WIFISSID</lhs>
-					<op>0</op>
-					<rhs>%HOME_WIFI_2G</rhs>
-				</Condition>rue</limit>
+		<limit>true</limit>
 		<mid0>7</mid0>
 		<nme>Wifi Network</nme>
 		<State sr="con0" ve="2">

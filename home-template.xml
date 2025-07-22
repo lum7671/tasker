@@ -4,16 +4,7 @@
 		<edate>1753083834543</edate>
 		<flags>10</flags>
 		<id>10</id>
-				<Condition sr="c0" ve="3">
-					<lhs>%WIFISSID</lhs>
-					<op>0</op>
-					<rhs>YOUR_HOME_WIFI_5G</rhs>
-				</Condition>
-				<Condition sr="c1" ve="3">
-					<lhs>%WIFISSID</lhs>
-					<op>0</op>
-					<rhs>YOUR_HOME_WIFI_2G</rhs>
-				</Condition>rue</limit>
+		<limit>true</limit>
 		<mid0>7</mid0>
 		<nme>Wifi Network</nme>
 		<State sr="con0" ve="2">
@@ -175,12 +166,12 @@
 					<Condition sr="c0" ve="3">
 						<lhs>%WIFISSID</lhs>
 						<op>0</op>
-						<rhs>KT_GiGA_5G_Wave2_PugHome</rhs>
+						<rhs>YOUR_HOME_WIFI_5G</rhs>
 					</Condition>
 					<Condition sr="c1" ve="3">
 						<lhs>%WIFISSID</lhs>
 						<op>0</op>
-						<rhs>KT_GiGA_2G_Wave2_PugHome</rhs>
+						<rhs>YOUR_HOME_WIFI_2G</rhs>
 					</Condition>
 				</ConditionList>
 			</ConditionList>
